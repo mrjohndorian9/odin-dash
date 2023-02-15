@@ -418,6 +418,7 @@ img {
 	grid-auto-flow: column;
 	gap: 1.5em;
 	justify-content: start;
+	grid-template-columns: auto 1fr;
   }
 
   .trending__project img {
